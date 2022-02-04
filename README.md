@@ -12,7 +12,7 @@
 ```javascript
 const nath = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Solidity, Python],
   tools: [Node, Truffle, Hardhat]
   workingOn: ["Blockchain technology-based tracking system for coffee supply chain"],
   learning: {
