@@ -1,11 +1,15 @@
-<h2> Hi, I'm Nath Barreiros! <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" width="50"> </h2>
-<p><em>Electronics and Automation Engineering Student at <a href="https://www.epn.edu.ec/">National Polytechnic School</a><img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="32">
-</em></p>
+<h2> Hi, I'm Nath Barreiros! 
+<img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="32">
+</h2>
+<p><em>Electronics and Automation Engineering Undergraduate Student at <a href="https://www.epn.edu.ec/">National Polytechnic School</a>
+</em></p>Electronics and Automation Engineering Undergraduated Student
 
-[![Linkedin: nathalia-barreiros](https://img.shields.io/twitter/url?label=%2Fnathalia-barreiros&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathalia-barreiros%2F)](https://www.linkedin.com/in/nathalia-barreiros/)
-[![Twitter: NathBarreiros](https://img.shields.io/twitter/url?label=%40NathBarreiros&style=social&url=https%3A%2F%2Ftwitter.com%2FNathBarreiros)](https://twitter.com/NathBarreiros)
+<a  href="https://www.linkedin.com/in/nathalia-barreiros/"  target="_blank">
+<img  align="center" style="border-radius: 5%;"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="18"  width="60"/></a><a href="mailto:nathalia.barreirosf@gmail.com" target="_blank">
+<img  align="center" style="border-radius: 5%;"  src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" height="18"  width="60" /></a><a  href="https://twitter.com/NathBarreiros"  target="_blank">
+<img  align="center" style="border-radius: 5%;"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="19"  width="65"/></a>
 
-### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const nath = {
@@ -17,10 +21,9 @@ const nath = {
                 professionally: [React, TypeScript],
                 personally: ["Be mindfulness", "Get out of my comfort zone"]
             },
-  hobbies: ["art", "3D-Design"],
+  hobbies: ["art", "3D-Printing"],
   challenges: ["Improve my development skills", "Network with amazing people"]
 }
 ```
 
-<img src="https://media.giphy.com/media/7Q5d5eg1qJ7sRcDzSb/giphy.gif" width="60"> <em><b>I would like to connect with different people and learn from them</b> so if you want to say <b>hi, I'd be glad to meet you!</b></em>
-
+👾 <em><b>I would like to connect with different people and learn from them</b> so if you want to say <b>hi, I'd be glad to meet you!</b></em>
