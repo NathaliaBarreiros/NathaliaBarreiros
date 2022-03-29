@@ -2,7 +2,6 @@
 <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="32">
 </h2>
 <p><em>Electronics and Automation Engineering Undergraduate Student at <a href="https://www.epn.edu.ec/">National Polytechnic School</a>
-</em></p>Electronics and Automation Engineering Undergraduated Student
 
 <a  href="https://www.linkedin.com/in/nathalia-barreiros/"  target="_blank">
 <img  align="center" style="border-radius: 5%;"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="18"  width="60"/></a><a href="mailto:nathalia.barreirosf@gmail.com" target="_blank">
