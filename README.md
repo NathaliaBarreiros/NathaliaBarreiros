@@ -5,7 +5,7 @@
 <div>
   <a  href="https://www.linkedin.com/in/nathalia-barreiros/"  target="_blank">
   <img  align="center"  src="https://img.shields.io/badge/-linkedin-important" /></a><a href="mailto:nathalia.barreirosf@gmail.com" target="_blank">
-  <img  align="center"  src="https://img.shields.io/badge/-gmail-success" height="18"  width="60"/></a><a  href="https://twitter.com/NathBarreiros"  target="_blank">
+  <img  align="center"  src="https://img.shields.io/badge/-gmail-success" /></a><a  href="https://twitter.com/NathBarreiros"  target="_blank">
   <img  align="center"  src="https://img.shields.io/badge/-twitter-informational" /></a>
 </div>
 
