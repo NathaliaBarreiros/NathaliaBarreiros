@@ -5,7 +5,6 @@
 
 [![Twitter: NathBarreiros](https://img.shields.io/twitter/url?label=%40NathBarreiros&style=social&url=https%3A%2F%2Ftwitter.com%2FNathBarreiros)](https://twitter.com/NathBarreiros)
 [![Linkedin: nathalia-barreiros](https://img.shields.io/twitter/url?label=%2Fnathalia-barreiros&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathalia-barreiros%2F)](https://www.linkedin.com/in/nathalia-barreiros/)
-[![Opensea IsNath](https://img.shields.io/twitter/url?label=opensea.io%2FIsNath&style=plastic&url=https%3A%2F%2Fopensea.io%2FIsNath)](https://opensea.io/IsNath)
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me... 
 
