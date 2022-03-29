@@ -2,20 +2,19 @@
 <p><em>Electronics and Automation Engineering Student at <a href="https://www.epn.edu.ec/">National Polytechnic School</a><img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="32">
 </em></p>
 
-
-[![Twitter: NathBarreiros](https://img.shields.io/twitter/url?label=%40NathBarreiros&style=social&url=https%3A%2F%2Ftwitter.com%2FNathBarreiros)](https://twitter.com/NathBarreiros)
 [![Linkedin: nathalia-barreiros](https://img.shields.io/twitter/url?label=%2Fnathalia-barreiros&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnathalia-barreiros%2F)](https://www.linkedin.com/in/nathalia-barreiros/)
+[![Twitter: NathBarreiros](https://img.shields.io/twitter/url?label=%40NathBarreiros&style=social&url=https%3A%2F%2Ftwitter.com%2FNathBarreiros)](https://twitter.com/NathBarreiros)
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
 const nath = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Solidity, Python],
-  tools: [Node, Truffle, Hardhat]
+  code: [Javascript, HTML, CSS, Solidity, Python, FastAPI, SQLModel],
+  tools: [Node, Truffle, Hardhat, Docker]
   workingOn: ["Blockchain technology-based tracking system for coffee supply chain"],
   learning: {
-                professionally: [React, FastAPI, Solidity],
+                professionally: [React, TypeScript],
                 personally: ["Be mindfulness", "Get out of my comfort zone"]
             },
   hobbies: ["art", "3D-Design"],
