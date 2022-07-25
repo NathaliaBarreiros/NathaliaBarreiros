@@ -15,7 +15,7 @@
 const nath = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Solidity, Python, FastAPI, SQLModel],
-  tools: [Node, Truffle, Hardhat, Docker]
+  tools: [Node, Truffle, Hardhat, Docker],
   workingOn: ["Blockchain technology-based tracking system for coffee supply chain"],
   learning: {
                 professionally: [React, TypeScript],
