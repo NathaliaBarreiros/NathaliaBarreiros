@@ -1,10 +1,11 @@
 <h2> Hi, I'm Nath Barreiros! 
 <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="32">
 </h2>
-<p><em>Electronics and Automation Engineering Undergraduate Student at <a href="https://www.epn.edu.ec/">National Polytechnic School</a>
+<p><em>Electronics and Automation Engineer at <a href="https://www.epn.edu.ec/">National Polytechnic School</a>
 <div>
-  <a  href="https://www.linkedin.com/in/nathalia-barreiros/"  target="_blank">
-  <img  align="center"  src="https://img.shields.io/badge/-linkedin-important" /></a><a href="mailto:nathalia.barreirosf@gmail.com" target="_blank">
+  <!---<a  href="https://www.linkedin.com/in/nathalia-barreiros/"  target="_blank">
+  <img  align="center"  src="https://img.shields.io/badge/-linkedin-important" /></a> -->
+  <a href="mailto:nathalia.barreirosf@gmail.com" target="_blank"> 
   <img  align="center"  src="https://img.shields.io/badge/-gmail-success" /></a><a  href="https://twitter.com/NathBarreiros"  target="_blank">
   <img  align="center"  src="https://img.shields.io/badge/-twitter-informational" /></a>
 </div>
@@ -15,9 +16,9 @@
 const nath = {
   code: [Solidity, Python, JavaScript, HTML, CSS],
   tools: [Node, Truffle, Hardhat, Docker, FastAPI, SQLModel, React],
-  workingOn: ["Blockchain technology-based tracking system for coffee supply chain"],
+  <!--- workingOn: ["Blockchain technology-based tracking system for coffee supply chain"], -->
   learning: {
-                professionally: [Data Science, Machine Learning],
+                professionally: [Data Science, Machine Learning, ZK-proofs],
                 personally: ["Be mindfulness", "Get out of my comfort zone"]
             },
   hobbies: ["art", "3D-Printing"],
