@@ -11,12 +11,12 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me...
+  <!--- workingOn: ["Blockchain technology-based tracking system for coffee supply chain"], -->
 
 ```javascript
 const nath = {
   code: [Solidity, Python, JavaScript, HTML, CSS],
   tools: [Node, Truffle, Hardhat, Docker, FastAPI, SQLModel, React],
-  <!--- workingOn: ["Blockchain technology-based tracking system for coffee supply chain"], -->
   learning: {
                 professionally: [Data Science, Machine Learning, ZK-proofs],
                 personally: ["Be mindfulness", "Get out of my comfort zone"]
