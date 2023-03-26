@@ -26,4 +26,4 @@ const nath = {
 }
 ```
 
-👾 <em><b>I'm always eager to broaden my horizons by meeting new people and learning from their experiences.</b> If you'd like to say <b>hello, I'd be thrilled to connect with you!</b></em>
+👾 <em>I'm always eager to broaden my horizons by meeting new people and learning from their experiences. If you'd like to say hello, I'd be thrilled to connect with you!</em>
