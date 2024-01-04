@@ -22,7 +22,7 @@ const nath = {
                 professionally: [Data Science, Machine Learning, ZK-proofs],
                 personally: ["Be mindfulness", "Get out of my comfort zone"]
             },
-  hobbies: ["art", "3D-Printing"],
+  hobbies: ["art"],
   challenges: ["Improve my development skills", "Network with amazing people"]
 }
 ```
