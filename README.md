@@ -12,7 +12,7 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me...
-<---workingOn: ["ZK+FL: Privacy-preserving distributed ML"]--->
+<!-- workingOn: ["ZK+FL: Privacy-preserving distributed ML"] -->
 
 ```javascript
 const nath = {
@@ -27,7 +27,7 @@ const nath = {
     'Deepen expertise in robotics, AI, and their intersection with cryptography',
     'Build technology that drives meaningful social impact',
     'Continuously improve development skills',
-    'Network with innovative minds in the tech industry'
+    'Network with passionate and purpose-driven minds in the tech industry'
   ]
 }
 ```
