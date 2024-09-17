@@ -25,9 +25,7 @@ const nath = {
   hobbies: ["art", "3D-Printing"],
   challenges: [
     'Deepen expertise in robotics, AI, and their intersection with cryptography',
-    'Build technology that drives meaningful social impact',
-    'Continuously improve development skills',
-    'Network with passionate and purpose-driven minds in the tech industry'
+    'Build technology that drives meaningful social impact'
   ]
 }
 ```
