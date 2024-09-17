@@ -12,7 +12,7 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me...
-workingOn: ["ZK+FL: Privacy-preserving distributed ML"]
+<---workingOn: ["ZK+FL: Privacy-preserving distributed ML"]--->
 
 ```javascript
 const nath = {
