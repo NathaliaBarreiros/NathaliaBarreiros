@@ -12,18 +12,23 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="50"> A little more about me...
-  <!--- workingOn: ["Blockchain technology-based tracking system for coffee supply chain"], -->
+  <!--- workingOn: ["ZK+FL: Privacy-preserving distributed ML"], -->
 
 ```javascript
 const nath = {
-  code: [Solidity, Python, JavaScript, HTML, CSS],
+  code: [Python, TypeScript, JavaScript, Solidity, HTML, CSS],
   tools: [Node, Truffle, Hardhat, Docker, FastAPI, SQLModel, React],
   learning: {
-                professionally: [Data Science, Machine Learning, ZK-proofs],
-                personally: ["Be mindfulness", "Get out of my comfort zone"]
+                professionally: [Robotics, Machine Learning, ZK-proofs],
+                personally: ['Embrace personal growth']
             },
   hobbies: ["art", "3D-Printing"],
-  challenges: ["Improve my development skills", "Network with amazing people"]
+  challenges: [
+    'Deepen expertise in robotics, AI, and their intersection with cryptography',
+    'Build technology that drives meaningful social impact',
+    'Continuously improve development skills',
+    'Network with innovative minds in the tech industry'
+  ]
 }
 ```
 
