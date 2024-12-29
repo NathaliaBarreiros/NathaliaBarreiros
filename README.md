@@ -16,16 +16,16 @@
 
 ```javascript
 const nath = {
-  code: [Python, TypeScript, JavaScript, Solidity, HTML, CSS],
-  tools: [Node, Truffle, Hardhat, Docker, FastAPI, SQLModel, React],
+  code: ["Python", "TypeScript", "JavaScript", "Solidity", "HTML", "CSS"],
+  tools: ["Node", "Truffle", "Hardhat", "Docker", "FastAPI", "SQLModel", "React"],
   learning: {
-                professionally: [cryptography, Machine Learning, ZK-proofs],
-                personally: ['Embrace personal growth']
-            },
-  hobbies: ["art", "3D-Printing"],
+    professionally: ["Cryptography", "Machine Learning", "ZK-proofs"],
+    personally: ["Embrace personal growth"]
+  },
+  hobbies: ["art"],
   challenges: [
-    'Deepen expertise in AI and distributed technologies, like Federated Learning, and cryptography',
-    'Build technology that drives meaningful social impact'
+    "Deepen expertise in AI and distributed technologies, like Federated Learning, and cryptography",
+    "Build technology that drives meaningful social impact"
   ]
 }
 ```
