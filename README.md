@@ -19,12 +19,12 @@ const nath = {
   code: [Python, TypeScript, JavaScript, Solidity, HTML, CSS],
   tools: [Node, Truffle, Hardhat, Docker, FastAPI, SQLModel, React],
   learning: {
-                professionally: [Robotics, Machine Learning, ZK-proofs],
+                professionally: [cryptography, Machine Learning, ZK-proofs],
                 personally: ['Embrace personal growth']
             },
   hobbies: ["art", "3D-Printing"],
   challenges: [
-    'Deepen expertise in robotics, AI, and their intersection with cryptography',
+    'Deepen expertise in AI and distributed technologies, like Federated Learning, and cryptography',
     'Build technology that drives meaningful social impact'
   ]
 }
