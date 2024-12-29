@@ -17,9 +17,9 @@
 ```javascript
 const nath = {
   code: ["Python", "TypeScript", "JavaScript", "Solidity", "HTML", "CSS"],
-  tools: ["Node", "Truffle", "Hardhat", "Docker", "FastAPI", "SQLModel", "React"],
+  tools: ["Node", "Hardhat", "Docker", "FastAPI", "SQLModel", "React"],
   learning: {
-    professionally: ["Cryptography", "Machine Learning", "ZK-proofs"],
+    professionally: ["Cryptography", "Machine Learning"],
     personally: ["Embrace personal growth"]
   },
   hobbies: ["art"],
