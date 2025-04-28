@@ -24,10 +24,10 @@ const nath = {
   },
   hobbies: ["art"],
   challenges: [
-    "Deepen expertise in AI and distributed technologies, like Federated Learning, and cryptography",
+    "Deepen expertise in AI, Federated Learning, and cryptography",
     "Build technology that drives meaningful social impact"
   ]
 }
 ```
 
-👾 <em>I'm always eager to broaden my horizons by meeting new people and learning from their experiences. If you'd like to say hello, I'd be thrilled to connect with you!</em>
+
