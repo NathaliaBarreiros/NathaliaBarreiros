@@ -1,4 +1,7 @@
-## Hi, I'm Nath Barreiros!
+<h2>
+  Hi, I'm Nath Barreiros!
+  <img src="https://media.giphy.com/media/l0HlGeTBdTqMll15u/giphy.gif" width="36" />
+</h2>
 
 *An electronics and automation engineer finding her way into the world of cryptography.*
 
